@@ -29,7 +29,7 @@ This website serves as a platform to display my projects, skills, and experience
 - CSS3
 - JavaScript
 - Bootstrap (optional, if you're using it)
-- Any other technologies or libraries you've used in building the website.
+
 
 ## Usage
 
@@ -43,6 +43,3 @@ If you'd like to contribute to the project, feel free to submit pull requests or
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-You can customize this template according to your specific details and preferences. Let me know if you need any further assistance!
